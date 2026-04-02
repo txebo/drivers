@@ -1,0 +1,5 @@
+=== Lista de Drivers Originales macOS (Referencia) ===
+- Ethernet: AppleBCM5701Ethernet.kext
+- SD Card: AppleSDXC.kext
+- FireWire: AppleFWOHCI.kext
+- USB 3.0: AppleUSBXHCI.kext
